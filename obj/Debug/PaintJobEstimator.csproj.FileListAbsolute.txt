@@ -1,0 +1,10 @@
+C:\Users\TEMP\Desktop\CIS_130\Paint Job Estimator\PaintJobEstimator\PaintJobEstimator\bin\Debug\PaintJobEstimator.exe.config
+C:\Users\TEMP\Desktop\CIS_130\Paint Job Estimator\PaintJobEstimator\PaintJobEstimator\bin\Debug\PaintJobEstimator.exe
+C:\Users\TEMP\Desktop\CIS_130\Paint Job Estimator\PaintJobEstimator\PaintJobEstimator\bin\Debug\PaintJobEstimator.pdb
+C:\Users\TEMP\Desktop\CIS_130\Paint Job Estimator\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.csprojAssemblyReference.cache
+C:\Users\TEMP\Desktop\CIS_130\Paint Job Estimator\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.Form1.resources
+C:\Users\TEMP\Desktop\CIS_130\Paint Job Estimator\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.Properties.Resources.resources
+C:\Users\TEMP\Desktop\CIS_130\Paint Job Estimator\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.csproj.GenerateResource.cache
+C:\Users\TEMP\Desktop\CIS_130\Paint Job Estimator\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\Desktop\CIS_130\Paint Job Estimator\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.exe
+C:\Users\TEMP\Desktop\CIS_130\Paint Job Estimator\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.pdb
